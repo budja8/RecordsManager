@@ -2,4 +2,5 @@ out/
 .idea/
 *.iml
 *.txt
+*.records
 *.record
