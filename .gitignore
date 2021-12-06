@@ -1,5 +1,7 @@
 out/
 .idea/
+target/
+*.class
 *.iml
 *.txt
 *.records
